@@ -6,7 +6,7 @@
 #define max 5
 int main()
 {   
-    int level = 0;
+    short level = 0;
     int levelMaxNumber = max;
     bool next = true;
     
